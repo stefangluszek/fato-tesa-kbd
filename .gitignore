@@ -1,3 +1,4 @@
 #KiCAD
-keyboard-backups
-fp-info-cache
+pcbs/keyboard-backups
+pcbs/fp-info-cache
+pcbs/production
