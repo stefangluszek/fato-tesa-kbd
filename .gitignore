@@ -2,3 +2,4 @@
 pcbs/keyboard-backups
 pcbs/fp-info-cache
 pcbs/production
+pcbs/*.lck
