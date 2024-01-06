@@ -32,3 +32,8 @@ I exported the PCB outline from Onshape and imported it as Edge cuts into KiCAD.
 
 I will wait for all the components to arrive to confirm the footprint dimensions before I order the PCBs from JLCPCB. I also need to add cutouts for the stabilisers, but I haven't received them yet, so I am not sure what the dimensions are.
 
+## PCB footprints review and ordering
+All components have arrived and I've reviewed the footprints to make sure they match the PCB design. I have also re-done the traces and made the power delivery (ground and VCC) much thicker (1mm).
+I think the PCB is ready for manufacturing. I've generated the fabrication files with [KiJLC](https://github.com/fullyautomated/KiJLC) and uploaded them to (jlcpcb.com)[https://jlcpcb.com/].
+
+![JLCPCB](docs/assets/jlcpcb-order.png)
