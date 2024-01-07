@@ -3818,30 +3818,6 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 380.365 146.05 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 0b76d9d0-14c6-4513-bb4a-1d42e2934e2e)
-    (property "Reference" "H37" (at 382.905 144.78 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 382.905 147.32 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Keebio-Parts:breakaway-mousebites_fat-o-tesa" (at 380.365 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 380.365 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "keyboard"
-        (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
-          (reference "H37") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Mechanical:MountingHole") (at 412.115 60.325 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0beb5579-7523-49d0-8194-f7b17c5297c0)
@@ -4225,30 +4201,6 @@
       (project "keyboard"
         (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
           (reference "H23") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 100.965 142.875 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 199a2819-2f62-4cad-b9a2-b4ad10464d48)
-    (property "Reference" "H35" (at 103.505 141.605 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 103.505 144.145 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Keebio-Parts:breakaway-mousebites_fat-o-tesa" (at 100.965 142.875 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 100.965 142.875 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "keyboard"
-        (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
-          (reference "H35") (unit 1)
         )
       )
     )
@@ -4771,30 +4723,6 @@
       (project "keyboard"
         (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
           (reference "K_16") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 401.32 153.035 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 2d02c209-3291-4e2c-8f38-5dfa6930a2e9)
-    (property "Reference" "H40" (at 403.86 151.765 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 403.86 154.305 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Keebio-Parts:breakaway-mousebites_fat-o-tesa" (at 401.32 153.035 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 401.32 153.035 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "keyboard"
-        (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
-          (reference "H40") (unit 1)
         )
       )
     )
@@ -5802,30 +5730,6 @@
       (project "keyboard"
         (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
           (reference "K_42") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 380.365 153.035 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 58939ee9-d68b-429a-acf8-99d894ec2b16)
-    (property "Reference" "H38" (at 382.905 151.765 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 382.905 154.305 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Keebio-Parts:breakaway-mousebites_fat-o-tesa" (at 380.365 153.035 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 380.365 153.035 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "keyboard"
-        (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
-          (reference "H38") (unit 1)
         )
       )
     )
@@ -7768,30 +7672,6 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 80.01 142.875 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 9f6b3c71-2f09-45aa-8383-d470b9a01da8)
-    (property "Reference" "H33" (at 82.55 141.605 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 82.55 144.145 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Keebio-Parts:breakaway-mousebites_fat-o-tesa" (at 80.01 142.875 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 80.01 142.875 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "keyboard"
-        (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
-          (reference "H33") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:GND") (at 107.315 349.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9ff0bfd6-4c27-430d-92a8-ff8f844739a2)
@@ -8057,30 +7937,6 @@
       (project "corne-cherry"
         (path "/4cc5d416-57f5-4147-8183-e03ae6b1198a"
           (reference "LED3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 100.965 149.86 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid a68336bd-0018-4fb8-a794-f8d2810e2ff5)
-    (property "Reference" "H36" (at 103.505 148.59 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 103.505 151.13 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Keebio-Parts:breakaway-mousebites_fat-o-tesa" (at 100.965 149.86 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 100.965 149.86 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "keyboard"
-        (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
-          (reference "H36") (unit 1)
         )
       )
     )
@@ -8981,30 +8837,6 @@
       (project "keyboard"
         (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
           (reference "D_58") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 80.01 149.86 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid ccfce7c8-8fb1-4f24-9340-506bd3d35ebd)
-    (property "Reference" "H34" (at 82.55 148.59 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 82.55 151.13 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Keebio-Parts:breakaway-mousebites_fat-o-tesa" (at 80.01 149.86 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 80.01 149.86 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "keyboard"
-        (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
-          (reference "H34") (unit 1)
         )
       )
     )
@@ -10074,30 +9906,6 @@
       (project "keyboard"
         (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
           (reference "K_7") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 401.32 146.05 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid fd8b0df9-73fb-4280-a3f0-d07e028e3889)
-    (property "Reference" "H39" (at 403.86 144.78 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 403.86 147.32 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Keebio-Parts:breakaway-mousebites_fat-o-tesa" (at 401.32 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 401.32 146.05 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "keyboard"
-        (path "/30eea16d-cbc8-4652-9fea-1af3eb5fea52"
-          (reference "H39") (unit 1)
         )
       )
     )
