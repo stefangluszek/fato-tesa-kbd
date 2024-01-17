@@ -37,3 +37,9 @@ All components have arrived and I've reviewed the footprints to make sure they m
 I think the PCB is ready for manufacturing. I've generated the fabrication files with [KiJLC](https://github.com/fullyautomated/KiJLC) and uploaded them to (jlcpcb.com)[https://jlcpcb.com/].
 
 ![JLCPCB](docs/assets/jlcpcb-order.png)
+
+## Assembly
+
+The PCB from JLCPCB has arrived! It's time for the assembly.
+
+![Parts](docs/assets/pre-assembly.png)
