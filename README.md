@@ -43,3 +43,18 @@ I think the PCB is ready for manufacturing. I've generated the fabrication files
 The PCB from JLCPCB has arrived! It's time for the assembly.
 
 ![Parts](docs/assets/pre-assembly.png)
+
+## v0.1 - That ain't gonna work
+![FAIL](docs/assets/v-0-1-fail.png)
+
+OK, that didn't work 🙈. Time for revision.
+
+### Must fix
+- [ ] Move the diodes out of the way of the switches
+- [ ] Make sure I have all 3D models available in KiCAD to avoid surprises
+- [ ] Connect the filled planes to ground and VCC
+
+### Improvements
+- [ ] 4 layer PCB stackup to [achieve proper grounding](https://www.youtube.com/watch?v=ySuUZEjARPY). (+$46)
+- [ ] PCB with assembled rp2040 MCU (+$100)
+- [ ] Hot swap sockets (+$20)
