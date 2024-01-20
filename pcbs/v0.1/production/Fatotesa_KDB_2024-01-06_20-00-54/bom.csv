@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D_0, D_1, D_10, D_11, D_12, D_13, D_14, D_15, D_16, D_17, D_18, D_19, D_2, D_20, D_21, D_22, D_23, D_24, D_25, D_26, D_27, D_28, D_29, D_3, D_30, D_31, D_32, D_33, D_34, D_4, D_5, D_6, D_7, D_75, D_8, D_9",D3_TH,36,D,
+"H1, H10, H11, H12, H2, H3, H4, H5, H6, H7, H8, H9",MountingHole_4.3mm_M4,12,MountingHole,
+"H25, H26, H27, H31",MountingHole_5.3mm_M5,4,MountingHole,
+J1,MJ-4PP-9_1side,1,MJ-4PP-9,
+"K_0, K_1, K_10, K_12, K_13, K_14, K_15, K_16, K_18, K_19, K_2, K_20, K_21, K_22, K_24, K_25, K_26, K_27, K_28, K_29, K_3, K_34, K_4, K_5, K_6, K_7, K_8, K_9",MXOnly-1U-NoLED,28,KEYSW,
+K_11,MXOnly-1.5U-NoLED,1,KEYSW,
+"K_17, K_33",MXOnly-1.75U-NoLED,2,KEYSW,
+"K_23, K_30, K_31, K_32",MXOnly-1.25U-NoLED,4,KEYSW,
+"LED1, LED2, LED3, LED4, LED5, LED6",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,6,WS2812B,
+SW1,ResetSMD_SG,1,SW_PUSH,
+SW3,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder_Switch,
+U3,ProMicro_v3_inverted,1,ProMicro,

@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D_35, D_36, D_37, D_38, D_39, D_40, D_41, D_42, D_43, D_44, D_45, D_46, D_47, D_48, D_49, D_50, D_51, D_52, D_53, D_54, D_55, D_56, D_57, D_58, D_59, D_60, D_61, D_62, D_63, D_64, D_65, D_66, D_67, D_68, D_69, D_70, D_71, D_72, D_73, D_74",D3_TH,40,D,
+"H13, H14, H15, H16, H17, H18, H19, H20, H21, H22, H23, H24",MountingHole_4.3mm_M4,12,MountingHole,
+"H28, H29, H30, H32",MountingHole_5.3mm_M5,4,MountingHole,
+J2,MJ-4PP-9_1side,1,MJ-4PP-9,
+"K_35, K_36, K_37, K_38, K_39, K_40, K_41, K_42, K_43, K_44, K_45, K_46, K_47, K_48, K_49, K_50, K_51, K_52, K_53, K_54, K_55, K_57, K_58, K_59, K_60, K_61, K_63, K_64, K_65, K_66, K_68, K_69, K_70, K_71, K_72",MXOnly-1U-NoLED,35,KEYSW,
+"K_56, K_62, K_67, K_74",MXOnly-1.25U-NoLED,4,KEYSW,
+K_73,SW_Cherry_MX_ISOEnter_PCB,1,KEYSW,
+"LED10, LED11, LED12, LED7, LED8, LED9",LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,6,WS2812B,
+"S1, S3, S4",STAB_MX_P_2u,3,MX_stab,
+S2,STAB_MX_P_2.75u,1,MX_stab,
+SW2,ResetSMD_SG,1,SW_PUSH,
+U1,ProMicro_v3_inverted,1,ProMicro,
