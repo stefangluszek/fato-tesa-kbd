@@ -4,3 +4,4 @@ pcbs/fp-info-cache
 pcbs/production
 pcbs/*.lck
 _autosave-keyboard.kicad*
+_autosave-*.kicad*
