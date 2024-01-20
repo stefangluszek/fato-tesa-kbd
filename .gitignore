@@ -1,7 +1,7 @@
 #KiCAD
-pcbs/keyboard-backups
+**/keyboard-backups/*
 pcbs/fp-info-cache
 pcbs/production
-pcbs/*.lck
+**/*.lck
 _autosave-keyboard.kicad*
 _autosave-*.kicad*
