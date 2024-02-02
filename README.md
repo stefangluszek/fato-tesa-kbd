@@ -9,7 +9,7 @@ The requirements I had were simple, a split mechanical keyboard with the base la
 ## The layout
 I used the [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/) to create the layout. It's based on the ISO 60% preset, but includes the top row with a couple of functional keys. I will explain why I needed the top row later on when we get to the PCB design.
 
-The raw layout can be foud [here](layouts/layout.kle).
+The raw layout can be found [here](layouts/layout.kle).
 
 ![Layout](docs/assets/fat-o-tesa-layout.png)
 
