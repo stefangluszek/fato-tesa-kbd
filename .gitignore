@@ -1,8 +1,8 @@
 #KiCAD
 **/*-backups/*
 pcbs/fp-info-cache
-pcbs/production
 **/*.lck
 _autosave-keyboard.kicad*
 _autosave-*.kicad*
 **/*auto_saved_file*
+**/production
