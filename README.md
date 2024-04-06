@@ -26,3 +26,5 @@ The PCB routing and component placement is also improved. All signal traces are 
 ![PCB](docs/assets/pcb-render-top.png)
 
 ![PCB](docs/assets/pcb-render-bottom.png)
+
+![PCB](docs/assets/pcb-render-right.png)
